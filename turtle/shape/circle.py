@@ -8,4 +8,3 @@ shape("turtle") # change to an actual turtle
 circle(100, extent=180) # drawing a circle
 
 done()
-

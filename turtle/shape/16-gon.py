@@ -1,10 +1,10 @@
 
-# hexakaidecagon.py
+# 16-gon.py (hexadecagon)
 from turtle import *
 
 pensize(5) # change line width
 shape("turtle") # change to an actual turtle
 
-circle(100, steps=16) # draw hexakaidecagon
+circle(100, steps=16) # drawing a hexadecagon
 
 done()
