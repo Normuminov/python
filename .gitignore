@@ -1,4 +1,6 @@
 
 # Testing project
-test/*
+./test/test.py
+
+test.txt
 
