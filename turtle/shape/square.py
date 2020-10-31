@@ -1,14 +1,10 @@
 
+# square.py
 from turtle import *
 
-# change line width
-pensize(5)
+pensize(5) # change line width
+shape("turtle") # change to an actual turtle
 
-# change to an actual turtle
-shape("turtle")
-
-# drawing a square
-circle(50, steps=4)
+circle(50, steps=4) # drawing a square
 
 done()
-
