@@ -2,6 +2,8 @@
 # Turtle shapes
 
 0. circle
+1. -
+2. -
 3. triangle
 4. square
 5. pentagon
