@@ -2,3 +2,6 @@
 # Testing project
 test
 
+# pycache
+__pycache__
+
