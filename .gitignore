@@ -5,3 +5,6 @@ test
 # pycache
 __pycache__
 
+# configuration files of PyCharm
+.idea/*
+
